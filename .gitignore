@@ -7,5 +7,10 @@ pom.xml.asc
 *.class
 /.lein-*
 /.nrepl-port
+.sass-cache
+bower_components/
+node_modules/
 !public/index.html
 public/main.js
+public/main.css*
+public/vendor.js
