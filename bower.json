@@ -13,14 +13,10 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-    "jquery": "~2.1.1",
-    "lodash": "~2.4.1",
-    "bluebird": "~2.2.2"
-  },
   "dependencies": {
     "jquery": "~2.1.1",
     "lodash": "~2.4.1",
-    "bluebird": "~2.2.2"
+    "bluebird": "~2.2.2",
+    "react": "~0.11.1"
   }
 }
